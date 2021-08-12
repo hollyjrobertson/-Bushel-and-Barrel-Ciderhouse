@@ -21,7 +21,7 @@ function Footer() {
                 </div>
                 <div className='footer-link-items'>
                     <h2>About Us</h2>
-                    <Link to='/'>Who Are We</Link>
+                    <a href='https://bushelandbarrelciderhouse.wordpress.com/about/'>Who Are We</a>
                     <a href="https://www.facebook.com/bushelandbarrelciderhouse/reviews/?ref=page_internal">Reviews</a>
                 </div>
                 <div className='footer-link-items'>
