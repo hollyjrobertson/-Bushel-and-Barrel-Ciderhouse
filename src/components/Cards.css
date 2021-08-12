@@ -1,7 +1,9 @@
 .cards {
-    padding: 4rem;
-    background: #fff;
+    padding: 6rem;
+    background: rgb(206, 191, 191);
     overflow: hidden;
+    display: display-inside;
+    height: 600px;
 }
 
 h1 {

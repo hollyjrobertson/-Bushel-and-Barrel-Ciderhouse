@@ -25,7 +25,7 @@ function Footer() {
                     <a href="https://www.facebook.com/bushelandbarrelciderhouse/reviews/?ref=page_internal">Reviews</a>
                 </div>
                 <div className='footer-link-items'>
-                    <h2>Contact Us</h2>
+                    <h2 id="contactUs">Contact Us</h2>
                     <p>
                         201 NW Beaver Ridge Lane
                         Poulsbo, WA 98370<br/>

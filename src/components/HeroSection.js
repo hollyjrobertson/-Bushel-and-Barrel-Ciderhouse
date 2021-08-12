@@ -8,7 +8,7 @@ function HeroSection() {
             <h1>GOOD MEMORIES AWAIT</h1>
             <p>Come see us!</p>
             <div className="hero-btns">
-                <a href="/visit-us">
+                <a href="#contactUs">
                     <Button
                         className='btns'
                         buttonStyle='btn--outline'
