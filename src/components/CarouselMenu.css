@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+.carouselMenu {
+    text-align: center;
+}
+
+.carouselMenuRow {
+    padding-bottom: 2%;
+}
+.carouselMenuColumn {
+    z-index: 99;
+    float: left;
+    width: 50%;
+    height: 300px; 
+    padding: 2%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+} 
+
+.video-responsive {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+    border: 5px solid black;
+    background: black;
+}
+
+.video-responsive video {
+    left: 1%;
+    height: 300px;
+    padding-bottom: 10%;
+    width: 100%;
+    position: absolute;
+}
+
+
